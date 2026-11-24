@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "channelUrl": "https://youtube.com/@huhunedenboyle",
   "categories": {
     "bilim": "Bilim",
@@ -323,7 +323,7 @@
       "hint": "Cevap bilgisayardan çok daha eskiye, daktiloya dayanıyor.",
       "explanation": "İlk daktilo prototipinde harfler alfabetik diziliydi. Mucit Christopher Sholes düzeni değiştirdi; en yaygın anlatıya göre sık yan yana gelen harfleri ayırdı ki mekanik kollar birbirine sıkışmasın.",
       "deepDive": "Bazı araştırmacılar ise düzenin mors kodunu çözen telgrafçılara göre şekillendiğini düşünüyor; bu konu hâlâ tartışmalı. Düzen Remington daktilolarıyla yayıldı ve alışkanlık olarak kaldı. Parmaklarımız yaklaşık 150 yıllık bir daktilo kararına alışmış durumda.",
-      "bonusFact": "Düzenin yazanları yavaşlatmak için tasarlandığı fikri büyük ölçüde efsane sayılıyor.",
+      "bonusFact": "Düzenin yazanları yavaşlatmak için tasarlandığı fikri büyük ölçüde efsane sayılıyor. QWERTY adı da klavyenin üst sırasındaki ilk altı harften geliyor.",
       "sources": [
         {
           "title": "Smithsonian – Fact of Fiction: The Legend of the QWERTY Keyboard",
