@@ -1,0 +1,864 @@
+{
+  "version": 1,
+  "channelUrl": "https://youtube.com/@huhunedenboyle",
+  "categories": {
+    "bilim": "Bilim",
+    "doga": "Doğa",
+    "vucut": "Vücudumuz",
+    "muhendislik": "Mühendislik",
+    "teknoloji": "Teknoloji",
+    "dil-tarih": "Dil ve Tarih"
+  },
+  "questions": [
+    {
+      "id": "001",
+      "order": 1,
+      "category": "muhendislik",
+      "title": "Uçak pencereleri neden yuvarlak?",
+      "question": "Uçak pencereleri neden kare değil de yuvarlak?",
+      "options": [
+        "Yuvarlak cam daha ucuz üretildiği için",
+        "Yolcuların görüş açısını genişletmek için",
+        "Keskin köşeler gerilimi tek noktada toplayıp çatlamaya yol açtığı için",
+        "Uçağın hava direncini azaltmak için"
+      ],
+      "answerIndex": 2,
+      "hint": "1954'te iki jet yolcu uçağının havada parçalanmasıyla ilgili.",
+      "explanation": "Köşe, gerilimi tek noktada toplar. Uçak her havalandığında gövde hafifçe şişip iner; köşede biriken yük metali yavaş yavaş yorar ve çatlatır. Yuvarlak hatlı açıklıkta ise yük çok daha eşit dağılır.",
+      "deepDive": "1952'de ilk jet yolcu uçağı Comet hizmete girdi. 1954'te iki Comet birkaç ay arayla havada parçalandı. Mühendisler koca bir gövdeyi su tankına koyup defalarca basınçlandırdı ve çatlakların keskin köşeli açıklıkların çevresinden başladığını gördü. Bugün her yolcu uçağının penceresinin yuvarlak olması bu dersin sonucu.",
+      "bonusFact": "Yaygın inanışın aksine Comet'in yolcu pencerelerinin köşeleri zaten yuvarlatılmıştı; kazaya yol açan çatlak, çatıdaki kare bir anten açıklığından başladı.",
+      "sources": [
+        {
+          "title": "Aerossurance – Comet Misconceptions",
+          "url": "https://aerossurance.com/safety-management/comet-misconceptions/",
+          "verified": true
+        },
+        {
+          "title": "FAA Lessons Learned – Comet G-ALYV",
+          "url": "https://www.faa.gov/lessons_learned/transport_airplane/accidents/G-ALYV",
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/1opppHPsnhg",
+      "audioFile": "audio/001-round-airplane-windows.mp3"
+    },
+    {
+      "id": "002",
+      "order": 2,
+      "category": "bilim",
+      "title": "Gökyüzü neden mavi?",
+      "question": "Gökyüzü neden mavi görünür?",
+      "options": [
+        "Kısa dalga boylu ışık daha çok saçıldığı ve gözümüz maviye duyarlı olduğu için",
+        "Okyanusun rengini yansıttığı için",
+        "Havada mavi renkli gazlar olduğu için",
+        "Güneş ışığı aslında mavi olduğu için"
+      ],
+      "answerIndex": 0,
+      "hint": "Güneş ışığının içinde bütün renkler var; bazıları havada daha çok dağılıyor.",
+      "explanation": "Güneş ışığı atmosferdeki hava moleküllerine çarpıp her yöne dağılır; buna Rayleigh saçılması denir. Mor ve mavi gibi kısa dalga boyları çok daha fazla saçılır. Gözümüz maviye mordan daha duyarlı olduğu için gökyüzünü mavi görürüz.",
+      "deepDive": "Gün batımında güneş ufka yakındır ve ışık atmosferde çok daha uzun yol alır. Mavi, yol boyunca saçılıp bize ulaşmadan elenir; geriye turuncu ve kırmızı kalır. Yani gökyüzünün rengi, ışığın yolculuğunun hikâyesidir.",
+      "bonusFact": "Saçılma morda maviden bile güçlüdür. Gökyüzünü mor görmememizin sebebi gözümüzün mora daha az duyarlı olması.",
+      "sources": [
+        {
+          "title": "Big Think – Why the sky is blue",
+          "url": "https://bigthink.com/starts-with-a-bang/why-the-sky-is-blue-according-to-science/",
+          "verified": true
+        },
+        {
+          "title": "Brian Koberlein – Violet Sky",
+          "url": "https://briankoberlein.com/blog/violet-sky/",
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/5IzM-_PgCbI",
+      "audioFile": "audio/002-why-sky-is-blue.mp3"
+    },
+    {
+      "id": "003",
+      "order": 3,
+      "category": "bilim",
+      "title": "Bal neden bozulmaz?",
+      "question": "Bal neden kolay kolay bozulmaz?",
+      "options": [
+        "İçinde koruyucu katkı maddesi olduğu için",
+        "Suyu çok az, şekeri bol ve asidik olduğu için",
+        "Arılar onu kovanda soğuk sakladığı için",
+        "Bal hiçbir koşulda bozulamadığı için"
+      ],
+      "answerIndex": 1,
+      "hint": "Mikropların yaşamak için en çok neye ihtiyacı var?",
+      "explanation": "Mikroplar yaşamak için suya ihtiyaç duyar; balda ise su çok azdır ve şeker o az suyu sıkıca tutar. Bala düşen bir bakterinin hücresindeki su şekere çekilir ve bakteri kurur. Balın asidik olması da çoğu mikrobun üremesini engeller.",
+      "deepDive": "Arılar bal yaparken bir enzim ekler; bu enzim şekerin bir kısmını aside çevirir. Ama bal aslında bozulabilir: kapağı açık kalır ve havadaki nemi çekerse su artar ve bal mayalanabilir. Yani balı koruyan şey sihir değil, suyun yokluğu.",
+      "bonusFact": "Kapağı açık kalan bal havadaki nemi çeker; bu yüzden balın kapağını sıkı kapatmak gerekir.",
+      "safetyNote": "1 yaşından küçük bebeklere bal verilmemelidir (botulizm riski).",
+      "sources": [
+        {
+          "title": "BBC Science Focus – Why doesn't honey go off?",
+          "url": "https://www.sciencefocus.com/science/why-doesnt-honey-go-off",
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/MwW-0TCLw4s",
+      "audioFile": "audio/003-why-honey-never-spoils.mp3"
+    },
+    {
+      "id": "004",
+      "order": 4,
+      "category": "vucut",
+      "title": "Parmaklarımız suda neden buruşur?",
+      "question": "Parmak uçlarımız suda neden buruşur?",
+      "options": [
+        "Deri suyu emip şiştiği için",
+        "Parmak uçlarındaki yağ suda eridiği için",
+        "Suyun soğukluğu deriyi büzdüğü için",
+        "Sinir sistemi parmak ucundaki damarları daralttığı için"
+      ],
+      "answerIndex": 3,
+      "hint": "Çoğumuzun bildiği cevap yanlış; asıl iş sinirlerde.",
+      "explanation": "Parmaklar suyla temas edince sinir sistemi parmak uçlarındaki küçük damarları daraltır. Deri biraz küçülür ve içe doğru katlanır; buruşuk görüntü böyle oluşur.",
+      "deepDive": "Bir teoriye göre buruşuk parmaklar ıslak yüzeylerde tutuşu artıran lastik tırtılları gibi çalışıyor. Bir deneyde buruşuk parmaklar ıslak nesneleri daha hızlı kavradı, kuru nesnelerde ise fark çıkmadı. Ama bilim insanları buruşmanın işlevini hâlâ tartışıyor.",
+      "bonusFact": "Parmak sinirleri hasar görmüş kişilerde suda buruşma olmaz; bu, olayın sinir sistemine bağlı olduğunun kanıtı.",
+      "sources": [
+        {
+          "title": "Nature – Wrinkly fingers help us grip wet objects",
+          "url": "https://www.nature.com/articles/nature.2013.12175",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian – Why do we get prune fingers?",
+          "url": "https://www.smithsonianmag.com/smithsonian-institution/ask-smithsonian-why-do-we-get-prune-fingers-180956024/",
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/MllFsb3BL3I",
+      "audioFile": "audio/004-why-fingers-wrinkle.mp3"
+    },
+    {
+      "id": "005",
+      "order": 5,
+      "category": "doga",
+      "title": "Şimşek önce, gök gürültüsü sonra: neden?",
+      "question": "Şimşeği neden gök gürültüsünden önce görürüz?",
+      "options": [
+        "Işık sesten çok daha hızlı yol aldığı için",
+        "Gök gürültüsü şimşekten birkaç saniye sonra oluştuğu için",
+        "Bulutlar sesi bir süre içinde tuttuğu için",
+        "Kulağımız gözümüzden daha yavaş çalıştığı için"
+      ],
+      "answerIndex": 0,
+      "hint": "İkisi aynı anda oluşuyor ama sana farklı hızlarda geliyor.",
+      "explanation": "Işık saniyede yaklaşık 300 bin kilometre hızla gelir, şimşeği neredeyse anında görürüz. Ses ise havada saniyede yaklaşık 343 metre gider. Bu yüzden önce parlama, sonra gürültü gelir.",
+      "deepDive": "Gök gürültüsü, şimşeğin havayı bir anda çok ısıtıp genişletmesiyle oluşan bir şok dalgasıdır. Şimşekle gürültü arasındaki saniyeyi sayarak fırtınanın ne kadar uzakta olduğunu kabaca hesaplayabilirsin.",
+      "bonusFact": "Şimşekle gürültü arasındaki saniyeyi üçe bölersen fırtınanın yaklaşık kaç kilometre uzakta olduğunu bulursun.",
+      "safetyNote": "Gök gürültüsünü duyuyorsan yıldırım düşebilecek mesafedesin; kapalı bir yere geç.",
+      "sources": [
+        {
+          "title": "NOAA – Thunder",
+          "url": "https://noaa.gov/node/10808",
+          "verified": true
+        },
+        {
+          "title": "National Weather Service – Lightning Safety",
+          "url": "https://www.weather.gov/safety/lightning-safety",
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/W62JrG-zuPw",
+      "audioFile": "audio/005-why-lightning-before-thunder.mp3"
+    },
+    {
+      "id": "006",
+      "order": 6,
+      "category": "doga",
+      "title": "Kediler neden mırlar?",
+      "question": "Kediler sadece mutluyken mi mırlar?",
+      "options": [
+        "Evet, mırlama yalnızca mutluluk işaretidir",
+        "Hayır, sadece acıktıklarında mırlarlar",
+        "Hayır, yaralıyken ya da stresliyken de mırlayabilirler",
+        "Sadece yavru kediler mırlar"
+      ],
+      "answerIndex": 2,
+      "hint": "Mırlama her zaman 'mutluyum' demek değil.",
+      "explanation": "Kediler mutluyken mırlar ama yaralıyken ya da stresliyken de mırlayabilir. Çoğu uzmana göre beyindeki bir sinyal gırtlaktaki kasları çok hızlı açıp kapatır ve ses telleri arasındaki boşluk titreşir.",
+      "deepDive": "Kedilerin bu sesi tam olarak nasıl çıkardığı henüz kesin olarak çözülmüş değil. Mırlamanın iyileşmeyi desteklediği de düşünülüyor ama bu henüz kanıtlanmadı.",
+      "bonusFact": "Yavru kediler doğduktan günler sonra mırlamaya başlar; bunun anneye 'buradayım, iyiyim' demek olabileceği düşünülüyor.",
+      "sources": [
+        {
+          "title": "Library of Congress – Why and how do cats purr?",
+          "url": "https://www.loc.gov/everyday-mysteries/zoology/item/why-and-how-do-cats-purr/",
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/TaT91yAz1kE",
+      "audioFile": "audio/006-why-cats-purr.mp3"
+    },
+    {
+      "id": "007",
+      "order": 7,
+      "category": "vucut",
+      "title": "Koşarken neden terleriz?",
+      "question": "Koşarken terleriz ama kıyafet giyerken neden terlemeyiz?",
+      "options": [
+        "Kıyafetler teri hemen emdiği için",
+        "Terlemeyi hareket değil, vücut ısısının yükselmesi başlattığı için",
+        "Kıyafet giyerken hiçbir kas çalışmadığı için",
+        "Ter bezleri sadece koşarken açıldığı için"
+      ],
+      "answerIndex": 1,
+      "hint": "Terleme vücudun soğutma sistemi.",
+      "explanation": "Terleme hareketin kendisine değil, vücut ısısına bağlı. Koşarken kaslar çok çalışıp ısı üretir; vücut ısısı yükselince beyindeki termostat ter bezlerine sinyal gönderir. Kıyafet giymek ise vücudu pek ısıtmaz.",
+      "deepDive": "Ter ciltte buharlaşırken ısıyı alıp götürür ve seni soğutur. Çok kalın giyinir ya da sıcak ve nemli bir yerde kalırsan ısıyı atamazsın ve yine terlersin; nemli havada ter zor buharlaştığı için soğuma da zorlaşır.",
+      "bonusFact": "Heyecanlanınca terlemek, ısıdan bağımsız ayrı bir tetikleyiciyle olur.",
+      "sources": [
+        {
+          "title": "Active.com – Why do you sweat?",
+          "url": "https://www.active.com/fitness/articles/why-do-you-sweat",
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/w-NAERUVxI0",
+      "audioFile": "audio/007-why-we-sweat.mp3"
+    },
+    {
+      "id": "008",
+      "order": 8,
+      "category": "vucut",
+      "title": "Esneme neden bulaşıcı?",
+      "question": "Esnemenin amacıyla ilgili şu an en çok desteklenen teori hangisi?",
+      "options": [
+        "Vücuda daha fazla oksijen almak",
+        "Yüz kaslarını ısıtmak",
+        "Uykuyu çağırmak",
+        "Beyni serinletmek"
+      ],
+      "answerIndex": 3,
+      "hint": "Yıllarca inanılan oksijen fikri araştırmalarla pek desteklenmiyor.",
+      "explanation": "Şu an en çok desteklenen teoriye göre esnerken çekilen hava beynin ısısını düşürmeye yardım ediyor olabilir. Kemirgenlerle yapılan bir deneyde esnemeden sonra beyin ısısının düştüğü görüldü.",
+      "deepDive": "Esneme en çok uyanırken ve uykudan önce, yani beynin ısısının değiştiği anlarda olur. Esnemenin bulaşıcı olması ise ayrı bir soru ve henüz kesin bir cevabı yok. Esneme, bilimin hâlâ çözmeye çalıştığı küçük bir gizem.",
+      "bonusFact": "Bulaşıcı esnemenin, başkalarını taklit etmek ve empatiyle bağlantılı olabileceği düşünülüyor.",
+      "sources": [
+        {
+          "title": "Smithsonian – Why do we yawn and why is it contagious?",
+          "url": "https://www.smithsonianmag.com/science-nature/why-do-we-yawn-and-why-is-it-contagious-3749674/",
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/bXnLwwsGQFI",
+      "audioFile": "audio/008-why-we-yawn.mp3"
+    },
+    {
+      "id": "009",
+      "order": 9,
+      "category": "doga",
+      "title": "Okyanus neden tuzlu, nehirler neden değil?",
+      "question": "Okyanus tuzlu ama nehirler değil. Okyanusun tuzu nereden geliyor?",
+      "options": [
+        "Nehirlerin kayalardan taşıdığı mineraller birikip buharlaşmayla geride kaldığı için",
+        "Okyanusun dibinde dev tuz madenleri olduğu için",
+        "Okyanusa yağan yağmur tuzlu olduğu için",
+        "Deniz canlıları tuz ürettiği için"
+      ],
+      "answerIndex": 0,
+      "hint": "Nehir suyunda da tuz var, sadece çok az.",
+      "explanation": "Yağmur kayaları yavaş yavaş aşındırıp mineralleri suya karıştırır, nehirler de bunları denize taşır. Güneş denizden saf suyu buharlaştırır, tuz ise geride kalır.",
+      "deepDive": "Nehir suyunda tuz çok az olduğu için tadını almayız, ama dünyadaki nehirler her yıl denize milyarlarca ton tuz taşır. Nehirler tek kaynak değil; yanardağlar ve deniz dibindeki sıcak su bacaları da katkı yapar.",
+      "bonusFact": "Çıkışı olmayan göller okyanustan çok daha tuzlu olabilir; Ölü Deniz bunun en ünlü örneği.",
+      "sources": [
+        {
+          "title": "NOAA Ocean Service – Why is the ocean salty?",
+          "url": "https://oceanservice.noaa.gov/facts/riversnotsalty.html",
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/gPM9opoWHPA",
+      "audioFile": "audio/009-why-ocean-is-salty.mp3"
+    },
+    {
+      "id": "010",
+      "order": 10,
+      "category": "doga",
+      "title": "Tekir bir ırk mı?",
+      "question": "Tekir bir kedi ırkı mıdır?",
+      "options": [
+        "Evet, Anadolu'ya özgü bir ırktır",
+        "Evet, ama sadece sokak kedileri tekir olur",
+        "Hayır, birçok cinste görülebilen çizgili bir kürk desenidir",
+        "Hayır, tekir bir göz rengidir"
+      ],
+      "answerIndex": 2,
+      "hint": "Maine Coon da, British Shorthair da tekir olabilir.",
+      "explanation": "Tekir, kürkteki çizgili desenin adı; bir ırk değil. Maine Coon, British Shorthair, Bengal gibi birçok cins de tekir olabilir.",
+      "deepDive": "Evcil kedilerin atası olan yabani Afrika kedisinin kürkü çizgiliydi ve bu desen otlar arasında kamuflaj sağlıyordu. Sokaktaki kediler ırk gözetilmeden çiftleştiği için atalarından kalan çizgili desen yaygın kalır. Yani tekir üstün bir tür değil, yabani atanın kürkte kalan izi.",
+      "bonusFact": "Evcil kedilerin atası yabani Afrika kedisi de çizgili, yani 'tekir' desenliydi.",
+      "sources": [
+        {
+          "title": "Kaelin ve ark. (2012), Current Biology – Taqpep geni ve tekir desenleri",
+          "url": null,
+          "verified": true
+        },
+        {
+          "title": "Ottoni ve ark. (2017), Nature Ecology & Evolution – Evcil kedinin yayılımı",
+          "url": null,
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/DFNrD4XcVwQ",
+      "audioFile": "audio/010-tabby-is-not-a-breed.mp3"
+    },
+    {
+      "id": "011",
+      "order": 11,
+      "category": "teknoloji",
+      "title": "Klavyedeki harfler neden alfabetik değil?",
+      "question": "Klavyedeki harfler neden alfabetik sırada değil?",
+      "options": [
+        "Yazanları bilerek yavaşlatmak için",
+        "Daktiloda sık yan yana gelen harflerin kolları sıkışmasın diye",
+        "Bilgisayar üreticileri 1980'lerde değiştirdiği için",
+        "En çok kullanılan harfler ortada olsun diye"
+      ],
+      "answerIndex": 1,
+      "hint": "Cevap bilgisayardan çok daha eskiye, daktiloya dayanıyor.",
+      "explanation": "İlk daktilo prototipinde harfler alfabetik diziliydi. Mucit Christopher Sholes düzeni değiştirdi; en yaygın anlatıya göre sık yan yana gelen harfleri ayırdı ki mekanik kollar birbirine sıkışmasın.",
+      "deepDive": "Bazı araştırmacılar ise düzenin mors kodunu çözen telgrafçılara göre şekillendiğini düşünüyor; bu konu hâlâ tartışmalı. Düzen Remington daktilolarıyla yayıldı ve alışkanlık olarak kaldı. Parmaklarımız yaklaşık 150 yıllık bir daktilo kararına alışmış durumda.",
+      "bonusFact": "Düzenin yazanları yavaşlatmak için tasarlandığı fikri büyük ölçüde efsane sayılıyor.",
+      "sources": [
+        {
+          "title": "Smithsonian – Fact of Fiction: The Legend of the QWERTY Keyboard",
+          "url": null,
+          "verified": true
+        },
+        {
+          "title": "Yasuoka & Yasuoka (2011) – On the Prehistory of QWERTY",
+          "url": null,
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/5n911LmTPnc",
+      "audioFile": "audio/011-why-qwerty.mp3"
+    },
+    {
+      "id": "012",
+      "order": 12,
+      "category": "vucut",
+      "title": "Düşerken mide neden boşalır gibi olur?",
+      "question": "Hızla düşerken midemiz neden boşalmış gibi hisseder?",
+      "options": [
+        "Mide gerçekten bir an boşaldığı için",
+        "Mide asidi yukarı çıktığı için",
+        "Kalp bir anlığına durduğu için",
+        "Gevşek asılı organlar bir an geride kaldığı ve algılayıcıların sinyalleri değiştiği için"
+      ],
+      "answerIndex": 3,
+      "hint": "Mide ve bağırsaklar iskeletimize sıkıca bağlı değil.",
+      "explanation": "Düşerken sen ve oturduğun koltuk birlikte düşer, koltuk seni artık yukarı itmez ve kısa bir an ağırlıksız gibi olursun. Gevşekçe asılı duran mide ve bağırsaklar bir an geride kalır; iç kulaktaki ve gövdedeki algılayıcıların sinyalleri değişir.",
+      "deepDive": "Beyin bu sinyal karışıklığını midenin boşalması gibi hissettirir. Ancak bilim insanları bu hissin tam mekanizmasını hâlâ tartışıyor. Yani midemiz gerçekten boşalmıyor, sadece bir an geriden geliyor.",
+      "bonusFact": "Bu hissin tam olarak nasıl oluştuğu bilim insanları arasında hâlâ tartışılıyor.",
+      "sources": [
+        {
+          "title": "BBC Science Focus – This is what happens when your stomach drops on a rollercoaster",
+          "url": null,
+          "verified": true
+        },
+        {
+          "title": "Perimeter Institute – Why does your stomach drop on a roller coaster?",
+          "url": null,
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/LCgsRimEpJA",
+      "audioFile": "audio/012-why-stomach-drops.mp3"
+    },
+    {
+      "id": "013",
+      "order": 13,
+      "category": "vucut",
+      "title": "Soğan doğrarken neden ağlarız?",
+      "question": "Soğan doğrarken neden gözümüz yaşarır?",
+      "options": [
+        "Kesilince karışan maddelerden çıkan gaz gözdeki sinir uçlarını uyardığı için",
+        "Soğanın suyu göze sıçradığı için",
+        "Soğanın kokusu beyindeki duygu merkezini uyardığı için",
+        "Soğan havadaki nemi emdiği için"
+      ],
+      "answerIndex": 0,
+      "hint": "Bıçak, soğanın hücrelerinde ayrı duran maddeleri karıştırıyor.",
+      "explanation": "Soğanın hücrelerinde birbirinden ayrı duran maddeler vardır; bıçak hücreleri kesince bunlar karışıp tepkimeye girer ve havaya uçan bir gaz çıkar. Gaz gözdeki sinir uçlarını uyarır, göz de kendini korumak için yaş salgılar.",
+      "deepDive": "Bu gözyaşları üzüntüden değil; gözün gazı yıkayıp atmaya çalışan bir refleksi. Gazın oluşması için soğanda ayrı bir enzim gerektiği 2002'de Nature dergisinde yayımlanan bir çalışmayla gösterildi.",
+      "bonusFact": "Soğanı önce soğutmak ve keskin bir bıçak kullanmak çıkan gazı azaltır.",
+      "sources": [
+        {
+          "title": "Imai ve ark. (2002), Nature 419:685 – An onion enzyme that makes the eyes water",
+          "url": null,
+          "verified": true
+        }
+      ],
+      "videoUrl": null,
+      "audioFile": "audio/013-why-onions-make-us-cry.mp3"
+    },
+    {
+      "id": "014",
+      "order": 14,
+      "category": "vucut",
+      "title": "Kendi sesimizi kayıtta neden farklı duyarız?",
+      "question": "Kendi sesimizi kayıtta duyunca neden yabancı gelir?",
+      "options": [
+        "Mikrofonlar sesi her zaman bozduğu için",
+        "Kayıt cihazları sesi hızlandırdığı için",
+        "Konuşurken sesimizi kemiklerden de duyduğumuz için içeriden daha kalın gelir",
+        "Kulaklarımız kendi sesimizi filtrelediği için"
+      ],
+      "answerIndex": 2,
+      "hint": "Konuşurken ses kulağına iki farklı yoldan ulaşıyor.",
+      "explanation": "Konuşurken ses kulağımıza hem havadan hem de kafatası kemikleri ve dokulardan ulaşır. Kemik ve dokular düşük tonları güçlendirdiği için sesimiz içeriden daha kalın ve dolgun gelir. Kayıtta ise yalnızca havadan gelen ses vardır.",
+      "deepDive": "Beynimiz yıllardır o dolgun, içeriden gelen sese alıştığı için kayıt bize yabancı gelir. Mikrofon kalitesi de az da olsa fark yaratabilir.",
+      "bonusFact": "Kayıttaki ses yanlış değil; başkalarının seni duyduğu sese çok daha yakın olan o.",
+      "sources": [
+        {
+          "title": "Scientific American – Why does my voice sound different on recordings?",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": null,
+      "audioFile": "audio/014-why-voice-sounds-different.mp3"
+    },
+    {
+      "id": "015",
+      "order": 15,
+      "category": "vucut",
+      "title": "Tüylerimiz neden diken diken olur?",
+      "question": "Üşüyünce ya da korkunca tüylerimiz neden diken diken olur?",
+      "options": [
+        "Derimiz soğukta küçüldüğü için",
+        "Her kıl köküne bağlı küçücük kaslar kasıldığı için",
+        "Kıllar soğukta donup sertleştiği için",
+        "Kan damarları derinin yüzeyine çıktığı için"
+      ],
+      "answerIndex": 1,
+      "hint": "Her kılın kendine ait minik bir kası var.",
+      "explanation": "Derimizin altındaki her kıl köküne bağlı küçücük bir kas vardır. Soğukta ya da korku anında beyin bu kaslara sinyal gönderir; kaslar kasılınca kıllar dikleşir ve çevresindeki deri hafifçe kabarır.",
+      "deepDive": "Bizim tüylerimiz artık çok seyrek olduğu için bu yöntem bizi ısıtmaz, ama atalarımızdan kalan bu koruma refleksi hâlâ çalışır.",
+      "bonusFact": "Kürklü hayvanlarda kabaran tüyler araya hava hapsederek yorgan gibi ısı tutar; tehlike anında da hayvanı daha iri gösterir.",
+      "sources": [
+        {
+          "title": "Britannica / Scientific American – Goosebumps",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": null,
+      "audioFile": "audio/015-why-we-get-goosebumps.mp3"
+    },
+    {
+      "id": "016",
+      "order": 16,
+      "category": "bilim",
+      "title": "Buz neden suyun üstünde yüzer?",
+      "question": "Çoğu katı madde kendi sıvısında batarken buz neden suyun üstünde yüzer?",
+      "options": [
+        "Buzun içinde hava kabarcıkları olduğu için",
+        "Buz sudan daha soğuk olduğu için",
+        "Suyun yüzey gerilimi buzu taşıdığı için",
+        "Donan su aralıklı bir kafes kurup genleştiği ve yoğunluğu düştüğü için"
+      ],
+      "answerIndex": 3,
+      "hint": "Aynı miktarda su donunca daha fazla yer kaplar.",
+      "explanation": "Su donarken moleküller birbirine tutunup aralarında boşluklar bırakan altıgen bir kafes oluşturur. Bu yüzden donan su daha fazla yer kaplar; yoğunluğu sıvı sudan düşük kaldığı için yüzer.",
+      "deepDive": "Demir, taş ve çoğu katı madde kendi sıvısında dibe batar; su bu konuda istisnadır. Sıvı suda moleküller birbirine daha yakın durur ve serbestçe kayar, donunca ise aralıklı bir düzene geçer.",
+      "bonusFact": "Buz dibe batsaydı göller kışın dipten donardı. Yüzeydeki buz tabakası, alttaki canlıları koruyan bir yalıtım kalkanı gibidir.",
+      "sources": [
+        {
+          "title": "USGS – Water Density",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": null,
+      "audioFile": "audio/016-why-ice-floats.mp3"
+    },
+    {
+      "id": "017",
+      "order": 17,
+      "category": "doga",
+      "title": "Gökkuşağı neden yay şeklinde?",
+      "question": "Gökkuşağı neden hep yay şeklinde görünür?",
+      "options": [
+        "Aynı açıdaki damlalar bir daire oluşturur, yeryüzü de alt yarısını gizler",
+        "Gökkuşağı bulutların şeklini aldığı için",
+        "Dünya yuvarlak olduğu için",
+        "Güneş ışığı havada eğri bir yol izlediği için"
+      ],
+      "answerIndex": 0,
+      "hint": "Gökkuşağı aslında yarım değil.",
+      "explanation": "Güneş ışığı yağmur damlasında kırılıp yansır ve renklerine ayrılarak çıkar. Renkler, güneşin tam karşısındaki noktadan yaklaşık 42 derecelik açıyla gözümüze ulaşır; o açıda duran bütün damlalar bir daire oluşturur. Yeryüzü bu dairenin alt yarısını gizler.",
+      "deepDive": "Yani gökkuşağı aslında tam bir dairedir. Biz yerden baktığımız için ufkun üstünde kalan kısmını, yani yayı görürüz.",
+      "bonusFact": "Uçaktan ya da çok yüksek bir tepeden bakınca gökkuşağı tam daire olarak görülebilir.",
+      "sources": [
+        {
+          "title": "NOAA / National Weather Service – Rainbows",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/BsLpUi9pv1Y",
+      "audioFile": "audio/017-why-rainbow-is-an-arc.mp3"
+    },
+    {
+      "id": "018",
+      "order": 18,
+      "category": "doga",
+      "title": "Kar neden beyaz?",
+      "question": "Kar neden beyaz görünür?",
+      "options": [
+        "İçinde beyaz mineraller olduğu için",
+        "Havadaki toz kristallere yapıştığı için",
+        "Şeffaf buz kristalleri ışığı her yöne saçıp tüm renkleri geri gönderdiği için",
+        "Su donunca beyaz renge dönüştüğü için"
+      ],
+      "answerIndex": 2,
+      "hint": "Tek bir kar kristaline yakından bakarsan şaşırırsın.",
+      "explanation": "Kar, aralarında hava boşlukları olan sayısız minik ve şeffaf buz kristalinden oluşur. Işık kristalden kristale binlerce kez sekerek her yöne dağılır. Buz renklerden hiçbirini belirgin biçimde yutmadığı için bütün renkler birlikte geri döner ve biz bunu beyaz görürüz.",
+      "deepDive": "Ezilmiş buzun beyaz görünmesi de aynı nedenle. Kısacası karın kendine ait bir rengi yok; gördüğümüz beyaz, ışığın kendisi.",
+      "bonusFact": "Tek bir kar kristali beyaz değil, şeffaftır.",
+      "sources": [
+        {
+          "title": "NSIDC – Why is snow white?",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/bgpQ5h-0gqA",
+      "audioFile": "audio/018-why-snow-is-white.mp3"
+    },
+    {
+      "id": "019",
+      "order": 19,
+      "category": "vucut",
+      "title": "Hapşırırken gözümüz neden kapanır?",
+      "question": "Hapşırırken gözümüz neden kapanır?",
+      "options": [
+        "Gözler dışarı fırlamasın diye",
+        "Göz kapakları hapşırık refleksinin otomatik bir parçası olduğu için",
+        "Burun ve göz aynı kasla çalıştığı için",
+        "Güçlü ışık hapşırığı artırdığı için"
+      ],
+      "answerIndex": 1,
+      "hint": "Gözümüzü biz kapatmıyoruz.",
+      "explanation": "Hapşırık, burundaki bir tahrişin tetiklediği bir reflekstir. Beyin tek bir komutla göğüs, boğaz ve yüzdeki birçok kası aynı anda harekete geçirir; göz kapakları da bu zincirin içindedir.",
+      "deepDive": "Neden böyle olduğuna dair kesin bir kanıt yok, ama en kabul gören açıklama koruma: hapşırıkla çevre bir anda damlacıklarla dolar ve kapalı göz bunlardan korunur.",
+      "bonusFact": "Hapşırırken gözün dışarı fırlayacağı korkusu asılsız.",
+      "sources": [
+        {
+          "title": "American Academy of Ophthalmology / Cleveland Clinic",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/Ld_jHMaIJQ8",
+      "audioFile": "audio/019-why-we-close-eyes-when-sneezing.mp3"
+    },
+    {
+      "id": "020",
+      "order": 20,
+      "category": "doga",
+      "title": "Yağmurdan sonra toprak neden kokar?",
+      "question": "Yağmurdan sonraki o toprak kokusu nereden gelir?",
+      "options": [
+        "Yağmur suyu buluttan koku taşıdığı için",
+        "Islak toprak çürümeye başladığı için",
+        "Yağmur havadaki tozu yaktığı için",
+        "Toprak bakterilerinin ürettiği geosmin havaya savrulduğu için"
+      ],
+      "answerIndex": 3,
+      "hint": "Koku aslında yağmurun değil, toprağın.",
+      "explanation": "Topraktaki bazı bakteriler geosmin denen bir kimyasal üretir ve bu madde kuru günlerde toprakta birikir. Yağmur damlası kuru toprağa çarpınca minik hava kabarcıkları hapseder; kabarcıklar patlayınca geosmin ince bir sis olarak havaya karışır.",
+      "deepDive": "Bu kokuyu bu kadar çabuk fark etmemizin nedeni, insan burnunun geosmine çok hassas olması: havadaki çok küçük miktarını bile sezebilir. Yağmur kokuyu üretmiyor, sadece havaya taşıyor.",
+      "bonusFact": "İnsan burnu geosmine o kadar hassas ki havadaki çok küçük bir miktarını bile fark edebilir.",
+      "sources": [
+        {
+          "title": "Joung ve ark. (2015), Nature Communications – Yağmur damlası aerosolleri",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/nLXFKQdFFVY",
+      "audioFile": "audio/020-why-rain-smells.mp3"
+    },
+    {
+      "id": "021",
+      "order": 21,
+      "category": "bilim",
+      "title": "Ekmek neden bayatlar?",
+      "question": "Ekmek kapalı poşette bile neden bayatlar?",
+      "options": [
+        "İçindeki nişasta yeniden kristalleşip suyu dışarı ittiği için",
+        "Ekmek havayla temas edip kuruduğu için",
+        "Ekmeğin mayası öldüğü için",
+        "Havadaki oksijen ekmeği yaktığı için"
+      ],
+      "answerIndex": 0,
+      "hint": "Asıl sebep kuruma değil; ekmeğin içindeki bir madde.",
+      "explanation": "Taze ekmekte nişasta suyu içinde tutan gevşek bir yapıdadır. Zamanla nişasta molekülleri yeniden dizilip sıkı kristaller oluşturur ve suyu dışarı iter. Su yok olmaz, yer değiştirir; ekmek de sertleşip ufalanır.",
+      "deepDive": "Bayat ekmeği kısa süre ısıtmak kristalleri eritip onu geçici olarak tazeler, ama birkaç saat sonra yeniden sertleşir. Yani bayatlama kuruma değil, nişastanın yeniden kristalleşmesidir.",
+      "bonusFact": "Buzdolabı bayatlamayı hızlandırır, dondurucu ise neredeyse durdurur.",
+      "sources": [
+        {
+          "title": "Gıda bilimi – nişasta retrogradasyonu",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/JcdDJCbb8PM",
+      "audioFile": "audio/021-why-bread-goes-stale.mp3"
+    },
+    {
+      "id": "022",
+      "order": 22,
+      "category": "vucut",
+      "title": "Uykuya dalarken neden sıçrarız?",
+      "question": "Uykuya dalarken neden birden düşüyormuş gibi sıçrarız?",
+      "options": [
+        "Kalp bir anlığına durduğu için",
+        "Kan şekeri aniden düştüğü için",
+        "Beyin kasların gevşemesini düşme sanıp kaslara sinyal yolladığı için",
+        "Yatak hafifçe hareket ettiği için"
+      ],
+      "answerIndex": 2,
+      "hint": "Buna hipnik sıçrama denir ve neredeyse herkesin başına gelir.",
+      "explanation": "Uykuya geçerken kaslar gevşer, nefes ve kalp ritmi yavaşlar. En yaygın teoriye göre beyin bu ani gevşemeyi bazen düşme olarak yorumlar ve kaslara hızlı bir sinyal yollar; bacak ya da kol birden seğirir.",
+      "deepDive": "Bu sıçramaya sıklıkla kısa bir düşme rüyası eşlik eder. Tam mekanizması kesin olarak bilinmiyor. Bir rahatsızlık değil; uykuya geçişte beynin gevşemeyi yanlış okuması.",
+      "bonusFact": "Stres, kafein ve yorgunluk hipnik sıçramayı sıklaştırır.",
+      "sources": [
+        {
+          "title": "Sleep Foundation / NHS – Hypnic jerks",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/rRLdPfEvE1M",
+      "audioFile": "audio/022-why-we-jerk-awake-falling.mp3"
+    },
+    {
+      "id": "023",
+      "order": 23,
+      "category": "vucut",
+      "title": "Hıçkırık neden tutar?",
+      "question": "Hıçkırıktaki o 'hik' sesi nereden gelir?",
+      "options": [
+        "Mideden çıkan gazdan",
+        "Diyafram kasılırken ses tellerinin birden kapanmasından",
+        "Boğazdaki yiyeceğin titreşmesinden",
+        "Kalbin hızlı atmasından"
+      ],
+      "answerIndex": 1,
+      "hint": "Hava kapalı bir kapıya çarpıyor.",
+      "explanation": "Hıçkırık, göğüs ile karın arasındaki diyaframın istemsiz ve ani kasılmasıdır. Diyafram kasılınca içeri hava çekilir, ama tam o anda ses telleri birden kapanır; hava bu kapalı kapıya çarpınca 'hik' sesi çıkar.",
+      "deepDive": "Çok hızlı yemek, gazlı içecek, ani sıcak ya da soğuk veya heyecan, diyaframı yöneten sinirleri uyararak hıçkırığı tetikleyebilir. Çoğu hıçkırık dakikalar içinde kendiliğinden geçer.",
+      "bonusFact": "Hıçkırığın vücutta neden var olduğu hâlâ tam bilinmiyor.",
+      "sources": [
+        {
+          "title": "Cleveland Clinic / Mayo Clinic – Hiccups",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/KyxCg65HhCk",
+      "audioFile": "audio/023-why-we-get-hiccups.mp3"
+    },
+    {
+      "id": "024",
+      "order": 24,
+      "category": "dil-tarih",
+      "title": "Turkuaz neden 'Türk' adını taşıyor?",
+      "question": "Turkuaz taşının adı neden 'Türk taşı' anlamına geliyor?",
+      "options": [
+        "Taş Türkiye'den çıkarıldığı için",
+        "Osmanlı sarayında çok kullanıldığı için",
+        "Rengi Türk bayrağından geldiği için",
+        "Avrupa'ya Türk ticaret yolları ve tüccarları üzerinden ulaştığı için"
+      ],
+      "answerIndex": 3,
+      "hint": "Taş aslında Türkiye'den çıkmıyor.",
+      "explanation": "Taş yüzyıllardır en çok İran'daki Nişabur çevresinde ve Sina Yarımadası'nda çıkarılıyordu. Avrupalı tüccarlar ona Türk topraklarından geçen ticaret yollarıyla ulaştı; taşı Türk tüccarlardan aldıkları için adı Eski Fransızcada 'Türk taşı' oldu: turquoise.",
+      "deepDive": "Sonra taşın rengi de aynı adı aldı. Biz de bu adı bir renk olarak Fransızcadan geri aldık. Yani turkuaz, Türkiye'de çıkan bir taş değil; Türk yollarından Avrupa'ya giden taşın adı.",
+      "bonusFact": "Turkuazın Türkçedeki eski adı firuze; Farsça kökenli ve zaferle ilişkilendirilen bir kelime.",
+      "sources": [
+        {
+          "title": "Etymonline – turquoise",
+          "url": null,
+          "verified": true
+        },
+        {
+          "title": "Britannica – Turquoise",
+          "url": null,
+          "verified": true
+        },
+        {
+          "title": "Nişanyan Sözlük – firuze, turkuaz",
+          "url": null,
+          "verified": true
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/2YDtFSanFf0",
+      "audioFile": "audio/024-why-turquoise-is-turkish.mp3"
+    },
+    {
+      "id": "025",
+      "order": 25,
+      "category": "dil-tarih",
+      "title": "Türkçede ekler neden kelimeye uyar?",
+      "question": "'Evler' ama 'okullar': Aynı ek neden farklı söylenir?",
+      "options": [
+        "Ek, kelimenin son ünlüsüne uyduğu için",
+        "Ek, kelimenin uzunluğuna göre değiştiği için",
+        "Ek, kelimenin anlamına göre değiştiği için",
+        "Ek, kelimenin ilk harfine göre değiştiği için"
+      ],
+      "answerIndex": 0,
+      "hint": "'Ev' ve 'okul' kelimelerindeki son ünlülere bak.",
+      "explanation": "Türkçede ek, eklendiği kelimenin son ünlüsüne bakar. 'Ev'de ince bir ünlü olan e var, ek de ince gelir: -ler. 'Okul'da kalın bir ünlü olan u var, ek de kalın gelir: -lar. Buna ünlü uyumu denir.",
+      "deepDive": "Dudaklar için de benzer bir kural var: göz-lük ama kız-lık. Dilbilimcilere göre başlıca sebep kolaylık; dil ve dudak aynı konumda kalınca uzun ek zincirleri bile akıcı söylenir.",
+      "bonusFact": "'Kitap' ve 'saat' gibi yabancı kökenli kelimeler kurala uymaz, ama onlara gelen ek yine ağzımıza uyar: saatler.",
+      "sources": [
+        {
+          "title": "TDK Yazım Kılavuzu – Ünlü uyumu",
+          "url": null,
+          "verified": true
+        }
+      ],
+      "videoUrl": null,
+      "audioFile": "audio/025-why-vowel-harmony.mp3"
+    },
+    {
+      "id": "026",
+      "order": 26,
+      "category": "doga",
+      "title": "Çita ile Usain Bolt yarışırsa kim kazanır?",
+      "question": "100 metrede çita ile Usain Bolt yarışsa ne olur?",
+      "options": [
+        "Bolt kıl payı kazanır",
+        "Berabere biterler",
+        "Çita kazanır, Bolt yaklaşık 40 metre geride kalır",
+        "Çita yarı yolda yorulur, Bolt kazanır"
+      ],
+      "answerIndex": 2,
+      "hint": "Kısa mesafede hız, uzun mesafede dayanıklılık kazanır.",
+      "explanation": "Bolt 100 metreyi 9,58 saniyede koştu. Ölçülmüş en hızlı çita olan hayvanat bahçesindeki Sarah ise aynı mesafeyi 5,95 saniyede bitirdi. Çita bitişi geçtiğinde Bolt yaklaşık 40 metre geride kalır.",
+      "deepDive": "Ama yarış uzarsa iş değişiyor: çita bu hızı çok kısa süre tutabilir. 100 ve 200 metrede çita kazanır; daha uzun mesafelerde ise yorulur ve dayanıklı insan öne geçebilir.",
+      "bonusFact": "Çitanın meşhur saatte 112 kilometre hızı bir tahmin; vahşi doğada ölçülen en yüksek hız saatte 93 kilometre.",
+      "sources": [
+        {
+          "title": "World Athletics – 100 m dünya rekoru (Berlin, 2009)",
+          "url": null,
+          "verified": true
+        },
+        {
+          "title": "Wilson ve ark. (2013), Nature 498 – Vahşi çitaların koşu ölçümleri",
+          "url": null,
+          "verified": true
+        },
+        {
+          "title": "Guinness World Records – Sarah (2012)",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": "https://youtube.com/shorts/nlQN_qzLGTc",
+      "audioFile": "audio/026-cheetah-vs-bolt.mp3"
+    },
+    {
+      "id": "027",
+      "order": 27,
+      "category": "dil-tarih",
+      "title": "Telefonu neden 'alo' diye açarız?",
+      "question": "Telefonu açarken söylediğimiz 'alo' nereden geliyor?",
+      "options": [
+        "Telefonun mucidi Bell telefonu 'alo' diye açtığı için",
+        "Edison'un önerdiği 'hello' sözcüğü Fransızca 'allô' üzerinden geldiği için",
+        "'Alo' eski Türkçede 'dinle' anlamına geldiği için",
+        "İlk santral operatörünün adından geldiği için"
+      ],
+      "answerIndex": 1,
+      "hint": "Bell'in değil, rakibinin önerisi tuttu.",
+      "explanation": "Edison 1877'de yazdığı bir mektupta telefonda 'hello' denmesini önerdi. 'Hello' kısa sürede Amerikan telefonlarında yerleşti. Fransızlar bu sözcüğü 'allô' diye aldı, Türkçeye de Fransızca üzerinden geldi.",
+      "deepDive": "Bell, 1876'da telefonun patentini aldı ve selamlaşma olarak gemilerdeki denizcilerin çağrısı 'ahoy'u önerdi. Ama 'ahoy' telefonda hiç tutmadı.",
+      "bonusFact": "Telefonun mucidi Bell, telefonu denizciler gibi 'ahoy' diye açmayı önermişti.",
+      "sources": [
+        {
+          "title": "Merriam-Webster – hello",
+          "url": null,
+          "verified": true
+        },
+        {
+          "title": "Edison Papers – 1877 mektubu",
+          "url": null,
+          "verified": true
+        },
+        {
+          "title": "Science Museum – Bell ve 'ahoy'",
+          "url": null,
+          "verified": true
+        }
+      ],
+      "videoUrl": null,
+      "audioFile": "audio/027-why-we-say-alo.mp3"
+    },
+    {
+      "id": "028",
+      "order": 28,
+      "category": "muhendislik",
+      "title": "Asansörde neden ayna var?",
+      "question": "Asansörlerdeki aynanın en sağlam dayanağı olan açıklama hangisi?",
+      "options": [
+        "Beklemeyi kısa hissettirmek için konduğu kanıtlanmıştır",
+        "Kabini daha aydınlık göstermek için",
+        "Güvenlik kameralarının yerine kullanılmak için",
+        "Tekerlekli sandalye kullananlar geri çıkarken arkasını görebilsin diye"
+      ],
+      "answerIndex": 3,
+      "hint": "Meşhur 'insanlar kendine bakıp oyalansın' hikâyesinin belgesi yok.",
+      "explanation": "Dar bir kabinde dönemeyen tekerlekli sandalye kullanıcısı, geri geri çıkarken arkasını aynadan görür. Avrupa'nın asansör erişilebilirlik standardında da bu amaçla ayna yer alıyor.",
+      "deepDive": "Çok anlatılan hikâyeye göre insanlar asansörün yavaşlığından şikâyet etmiş, ayna takılınca kendilerine bakıp oyalandıkları için şikâyetler bitmiş. Güzel bir hikâye ama belgesi yok; aynanın süreyi kısa hissettirip hissettirmediği de net ölçülmedi.",
+      "bonusFact": "Yavaş asansör–ayna hikâyesi çok anlatılır ama gerçek bir vaka olduğu hiç kanıtlanmadı.",
+      "sources": [
+        {
+          "title": "EN 81-70 – Asansör erişilebilirlik standardı",
+          "url": null,
+          "verified": false
+        }
+      ],
+      "videoUrl": null,
+      "audioFile": "audio/028-why-elevators-have-mirrors.mp3"
+    },
+    {
+      "id": "029",
+      "order": 29,
+      "category": "bilim",
+      "title": "Tuz neden buzu eritir?",
+      "question": "Yola atılan tuz buzu nasıl eritir?",
+      "options": [
+        "Suyun donma noktasını düşürerek buzun yeniden donmasını engeller",
+        "Buzu kimyasal tepkimeyle ısıtır",
+        "Buzun içindeki havayı dışarı çeker",
+        "Güneş ışığını toplayıp buza yansıtır"
+      ],
+      "answerIndex": 0,
+      "hint": "Tuz buzu ısıtmıyor.",
+      "explanation": "Buzun yüzeyinde çok ince bir su tabakası vardır; tuz bunun içinde çözünür ve tuzlu su oluşur. Tuzlu su sıfır derecede donamaz, donması için daha soğuk olması gerekir. Böylece buz erirken yeniden donamaz.",
+      "deepDive": "Sofra tuzu suda iki parçaya ayrıldığı için bu işi çok iyi yapar. Hatta eriyen buz çevresinden ısı çeker; eski usul dondurma bu yüzden buz ve tuz karışımıyla yapılır.",
+      "bonusFact": "Yaklaşık eksi 9–10 derecenin altında yol tuzu pek işe yaramaz; çok soğukta kalsiyum klorür gibi tuzlar kullanılır.",
+      "sources": [
+        {
+          "title": "Fizikokimya – donma noktası alçalması",
+          "url": null,
+          "verified": true
+        }
+      ],
+      "videoUrl": null,
+      "audioFile": "audio/029-why-salt-melts-ice.mp3"
+    }
+  ]
+}
